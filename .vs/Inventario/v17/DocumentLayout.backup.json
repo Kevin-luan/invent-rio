@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FE85E1-03BB-4FB9-ADD8-09CDF0E155F3}|Inventario\\Inventario.csproj|c:\\users\\supor\\onedrive\\documentos\\visual studio 2022\\inventario\\inventario\\inventario\\frmcadequipmobolizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FE85E1-03BB-4FB9-ADD8-09CDF0E155F3}|Inventario\\Inventario.csproj|solutionrelative:inventario\\frmcadequipmobolizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FE85E1-03BB-4FB9-ADD8-09CDF0E155F3}|Inventario\\Inventario.csproj|C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\inventario\\frmcadequipmobolizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3FE85E1-03BB-4FB9-ADD8-09CDF0E155F3}|Inventario\\Inventario.csproj|solutionrelative:inventario\\frmcadequipmobolizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FE85E1-03BB-4FB9-ADD8-09CDF0E155F3}|Inventario\\Inventario.csproj|C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\inventario\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FE85E1-03BB-4FB9-ADD8-09CDF0E155F3}|Inventario\\Inventario.csproj|solutionrelative:inventario\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FE85E1-03BB-4FB9-ADD8-09CDF0E155F3}|Inventario\\Inventario.csproj|C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FE85E1-03BB-4FB9-ADD8-09CDF0E155F3}|Inventario\\Inventario.csproj|solutionrelative:inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FE85E1-03BB-4FB9-ADD8-09CDF0E155F3}|Inventario\\Inventario.csproj|C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\inventario\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3FE85E1-03BB-4FB9-ADD8-09CDF0E155F3}|Inventario\\Inventario.csproj|solutionrelative:inventario\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCadEquipMobolizado.cs",
+              "DocumentMoniker": "C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\Inventario\\frmCadEquipMobolizado.cs",
+              "RelativeDocumentMoniker": "Inventario\\frmCadEquipMobolizado.cs",
+              "ToolTip": "C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\Inventario\\frmCadEquipMobolizado.cs",
+              "RelativeToolTip": "Inventario\\frmCadEquipMobolizado.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAhwCkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:41:54.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCadEquipMobolizado.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\Inventario\\frmCadEquipMobolizado.cs",
+              "RelativeDocumentMoniker": "Inventario\\frmCadEquipMobolizado.cs",
+              "ToolTip": "C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\Inventario\\frmCadEquipMobolizado.cs [Design]",
+              "RelativeToolTip": "Inventario\\frmCadEquipMobolizado.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:41:07.098Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\Inventario\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Inventario\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\Inventario\\frmMenu.cs",
+              "RelativeToolTip": "Inventario\\frmMenu.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:28:28.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\Inventario\\Program.cs",
+              "RelativeDocumentMoniker": "Inventario\\Program.cs",
+              "ToolTip": "C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\Inventario\\Program.cs",
+              "RelativeToolTip": "Inventario\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:24:29.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\Inventario\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Inventario\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\supor\\OneDrive\\Documentos\\Visual Studio 2022\\Inventario\\Inventario\\Inventario\\frmMenu.cs [Design]",
+              "RelativeToolTip": "Inventario\\frmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:24:23.77Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
